@@ -1,0 +1,10 @@
+#div1 {
+    /*display: block;*/
+		overflow: hidden;
+}
+#tools_div {
+    display: none;
+}
+#dataDiv {
+    display: none;
+}

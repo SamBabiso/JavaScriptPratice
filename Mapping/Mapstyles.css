@@ -1,0 +1,182 @@
+body {
+		background-color: #dddddd;
+		font-family: tahoma, verdana, arial, sans-serif;
+		font-size: 12px;
+}
+button {
+	  font-family: Arial;
+	  font-size: 12px;
+	  font-weight: bold;
+}
+div.grid {
+		width: 1200px;
+}
+
+div.grid div {
+		float: left;
+		height: 540px;
+}
+div.col1000 {
+	  width: 1000px;
+	  padding: 1px;
+	  border: 1px solid gray;
+	  margin: 0px;
+	  overflow: scroll;
+}
+div.col100 {
+		width: 170px;
+}
+div.grey {
+		background-color: #eeeeee;
+}
+div.white {
+		background-color: #999999;
+}
+div.clear {
+		clear: both;
+}
+div.header {
+		font-size: 12px;
+}
+#dataDiv {
+				background-color: #eeeeee;
+}
+#Legend {
+    height: 50px;
+}
+hr {
+		width: 1200px;
+}
+#tools_div {
+	  background-color: #cccccc;
+	  border-style: groove;
+	  border-width: 1px;
+	  font-family: Arial;
+	  font-size: 12px;
+	  font-weight: bold;
+	  height: 22px;
+	  width: 1170px;
+}
+table.data {
+		border-collapse: separate;
+		border-color: #999999;
+		border-width: 1px;
+		color: #333333;
+		empty-cells: hide; 
+		font-family: arial, tahoma, verdana, sans-serif;
+		font-size: 11px;
+}
+table.data th {
+		background-color: #c3dde0;
+		border-color: #a9c6c9;
+		border-style: solid;
+		border-width: 1px;
+		font-size: 10px;
+		padding: 4px;
+		width: 75px;
+}
+#thWide {
+		background-color: #c3dde0;
+		border-color: #a9c6c9;
+		border-style: solid;
+		border-width: 1px;
+		font-size: 10px;
+		padding: 4px;
+		text-align: right;
+		width: 350px;
+}
+#th100 {
+		background-color: #c3dde0;
+		border-color: #a9c6c9;
+		border-style: solid;
+		border-width: 1px;
+		font-size: 10px;
+		padding: 4px;
+		text-align: center;
+		width: 110px;
+}
+#tdWide {
+		background-color: #dddddd;
+		border-color: #a9c6c9;
+		border-style: solid;
+		border-width: 1px;
+		font-size: 10px;
+		padding: 4px;
+		text-align: right;
+}
+table.data td {
+		background-color: #dddddd;
+		border-color: #a9c6c9;
+		border-style: solid;
+		border-width: 1px;
+		font-size: 10px;
+		padding: 4px;
+		text-align: center;
+}
+/* SVG Elements */
+circle {
+    /*fill: #999900; */
+    opacity: 1;
+    fill-opacity: 1;
+    stroke: #ff0000;
+    stroke-opacity: 1;
+    stroke-width: 1;
+}
+line {
+    stroke: #000000;
+    stroke-width: 1;
+}
+path {
+	  /*fill: #999999; */
+	  fill-opacity: 1;
+	  opacity: 1;
+	  stroke: #ffffff;
+	  stroke-opacity: 1;
+	  stroke-width: 0.5;
+}
+path:hover {
+	  opacity: 0.5;
+}
+path.line {
+	  opacity: 1;
+	  fill-opacity: 1;
+	  stroke: #000000;
+	  stroke-opacity: 1;
+	  stroke-width: 1.0;
+}
+#Legend_r {
+    fill: #999999;
+    opacity: 1;
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-opacity: 1;
+    stroke-width: 2;
+}
+rect:hover {
+	  opacity: 0.2;
+}
+text {
+	  font-size: 10px;
+	  font-style: normal;
+	  font-variant: normal;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  text-align: start;
+	  /*line-height: 125%;*/
+	  letter-spacing: 0px;
+	  word-spacing: 0px;
+	  font-family: Lucida Console;
+}
+#Header_t {
+	  font-size: 16px;
+	  font-style: normal;
+	  font-variant: normal;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  text-align: start;
+		text-anchor: middle;
+	  line-height: 125%;
+	  letter-spacing: 0px;
+	  word-spacing: 0px;
+	  font-family: Lucida Console;
+}

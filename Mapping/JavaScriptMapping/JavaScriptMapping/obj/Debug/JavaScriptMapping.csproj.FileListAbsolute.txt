@@ -1,0 +1,10 @@
+D:\Mapping\JavaScriptMapping\JavaScriptMapping\bin\JavaScriptMapping.dll
+D:\Mapping\JavaScriptMapping\JavaScriptMapping\bin\JavaScriptMapping.pdb
+D:\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.csprojResolveAssemblyReference.cache
+D:\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.dll
+D:\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.pdb
+C:\JavaScriptPratice\Mapping\JavaScriptMapping\JavaScriptMapping\bin\JavaScriptMapping.dll
+C:\JavaScriptPratice\Mapping\JavaScriptMapping\JavaScriptMapping\bin\JavaScriptMapping.pdb
+C:\JavaScriptPratice\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.csprojResolveAssemblyReference.cache
+C:\JavaScriptPratice\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.dll
+C:\JavaScriptPratice\Mapping\JavaScriptMapping\JavaScriptMapping\obj\Debug\JavaScriptMapping.pdb
